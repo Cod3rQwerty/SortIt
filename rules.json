@@ -1,0 +1,35 @@
+{
+    "custom_rules": [
+        {
+            "folder_name": "Images/Holidays",
+            "pattern": "holiday"
+        },
+        {
+            "folder_name": "Documents/Invoices",
+            "pattern": "inv_\\d{4}"
+        }
+    ],
+    "default_rubric": {
+        "/Videos": [
+            ".mp4",
+            ".mov",
+            ".avi"
+        ],
+        "/Images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif"
+        ],
+        "/Documents": [
+            ".pdf",
+            ".docx",
+            ".txt"
+        ],
+        "/Code": [
+            ".py",
+            ".js",
+            ".json"
+        ]
+    }
+}
