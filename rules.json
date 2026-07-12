@@ -1,14 +1,5 @@
 {
-    "custom_rules": [
-        {
-            "folder_name": "Images/Holidays",
-            "pattern": "holiday"
-        },
-        {
-            "folder_name": "Documents/Invoices",
-            "pattern": "inv_\\d{4}"
-        }
-    ],
+    "custom_rules": [],
     "default_rubric": {
         "/Videos": [
             ".mp4",
